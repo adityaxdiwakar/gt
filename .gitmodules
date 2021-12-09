@@ -13,3 +13,21 @@
 [submodule "Career/resume"]
 	path = Career/resume
 	url = https://github.com/adityaxdiwakar/resume
+[submodule "math4107"]
+	path = math4107
+	url = https://github.com/adityaxdiwakar/math4107
+[submodule "math4320"]
+	path = math4320
+	url = https://github.com/adityaxdiwakar/math4320
+[submodule "math4803"]
+	path = math4803
+	url = https://github.com/adityaxdiwakar/math4803
+[submodule "math4640"]
+	path = math4640
+	url = https://github.com/adityaxdiwakar/math4640
+[submodule "math3215"]
+	path = math3215
+	url = https://github.com/adityaxdiwakar/math3215
+[submodule "cs1332"]
+	path = cs1332
+	url = https://github.com/adityaxdiwakar/cs1332
