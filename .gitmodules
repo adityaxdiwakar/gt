@@ -1,0 +1,15 @@
+[submodule "cs4641"]
+	path = cs4641
+	url = https://github.com/adityaxdiwakar/cs4641
+[submodule "cs3510"]
+	path = cs3510
+	url = https://github.com/adityaxdiwakar/cs3510
+[submodule "cs2110"]
+	path = cs2110
+	url = https://github.com/adityaxdiwakar/cs2110
+[submodule "math4221"]
+	path = math4221
+	url = https://github.com/adityaxdiwakar/math4221
+[submodule "Career/resume"]
+	path = Career/resume
+	url = https://github.com/adityaxdiwakar/resume
