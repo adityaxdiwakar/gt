@@ -34,3 +34,6 @@
 [submodule "cs3510ta/notes"]
 	path = cs3510ta/notes
 	url = https://github.com/adityaxdiwakar/cs3510-notes
+[submodule "math3406"]
+	path = math3406
+	url = https://github.com/adityaxdiwakar/math3406
