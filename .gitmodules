@@ -31,3 +31,6 @@
 [submodule "cs1332"]
 	path = cs1332
 	url = https://github.com/adityaxdiwakar/cs1332
+[submodule "cs3510ta/notes"]
+	path = cs3510ta/notes
+	url = https://github.com/adityaxdiwakar/cs3510-notes
