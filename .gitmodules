@@ -37,3 +37,9 @@
 [submodule "math3406"]
 	path = math3406
 	url = https://github.com/adityaxdiwakar/math3406
+[submodule "ece2031"]
+	path = ece2031
+	url = https://github.com/adityaxdiwakar/ece2031
+[submodule "cs4510"]
+	path = cs4510
+	url = https://github.com/adityaxdiwakar/cs4510
