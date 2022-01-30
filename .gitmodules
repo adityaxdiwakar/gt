@@ -43,3 +43,9 @@
 [submodule "cs4510"]
 	path = cs4510
 	url = https://github.com/adityaxdiwakar/cs4510
+[submodule "math3235"]
+	path = math3235
+	url = https://github.com/adityaxdiwakar/math3235
+[submodule "cs2200"]
+	path = cs2200
+	url = https://github.com/adityaxdiwakar/cs2200
