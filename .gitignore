@@ -1,2 +1,5 @@
 .DS_Store
 cs3510ta/grade_breakdowns/
+cs3510ta/scripts/
+workstats/
+cloc.txt
