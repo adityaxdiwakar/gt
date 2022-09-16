@@ -1,66 +1,88 @@
 [submodule "cs4641"]
 	path = cs4641
 	url = https://github.com/adityaxdiwakar/cs4641
+	branch = master
 [submodule "cs3510"]
 	path = cs3510
 	url = https://github.com/adityaxdiwakar/cs3510
+	branch = master
 [submodule "cs2110"]
 	path = cs2110
 	url = https://github.com/adityaxdiwakar/cs2110
+	branch = master
 [submodule "math4221"]
 	path = math4221
 	url = https://github.com/adityaxdiwakar/math4221
+	branch = master
 [submodule "Career/resume"]
 	path = Career/resume
 	url = https://github.com/adityaxdiwakar/resume
+	branch = master
 [submodule "math4107"]
 	path = math4107
 	url = https://github.com/adityaxdiwakar/math4107
+	branch = master
 [submodule "math4320"]
+	branch = master
 	path = math4320
 	url = https://github.com/adityaxdiwakar/math4320
 [submodule "math4803"]
 	path = math4803
 	url = https://github.com/adityaxdiwakar/math4803
+	branch = master
 [submodule "math4640"]
 	path = math4640
 	url = https://github.com/adityaxdiwakar/math4640
+	branch = master
 [submodule "math3215"]
 	path = math3215
 	url = https://github.com/adityaxdiwakar/math3215
+	branch = master
 [submodule "cs1332"]
 	path = cs1332
 	url = https://github.com/adityaxdiwakar/cs1332
+	branch = master
 [submodule "cs3510ta/notes"]
 	path = cs3510ta/notes
 	url = https://github.com/adityaxdiwakar/cs3510-notes
+	branch = master
 [submodule "math3406"]
 	path = math3406
 	url = https://github.com/adityaxdiwakar/math3406
+	branch = master
 [submodule "ece2031"]
 	path = ece2031
 	url = https://github.com/adityaxdiwakar/ece2031
+	branch = master
 [submodule "cs4510"]
 	path = cs4510
 	url = https://github.com/adityaxdiwakar/cs4510
+	branch = master
 [submodule "math3235"]
 	path = math3235
 	url = https://github.com/adityaxdiwakar/math3235
+	branch = master
 [submodule "cs2200"]
 	path = cs2200
 	url = https://github.com/adityaxdiwakar/cs2200
+	branch = master
 [submodule "cs3210"]
 	path = cs3210
 	url = https://github.com/adityaxdiwakar/cs3210
+	branch = master
 [submodule "cs3001"]
 	path = cs3001
 	url = https://github.com/adityaxdiwakar/cs3001
+	branch = master
 [submodule "math4317"]
 	path = math4317
 	url = https://github.com/adityaxdiwakar/math4317
+	branch = master
 [submodule "cs3220"]
 	path = cs3220
 	url = https://github.com/adityaxdiwakar/cs3220
+	branch = main
 [submodule "cs3600"]
 	path = cs3600
 	url = https://github.com/adityaxdiwakar/cs3600
+	branch = master
