@@ -49,3 +49,18 @@
 [submodule "cs2200"]
 	path = cs2200
 	url = https://github.com/adityaxdiwakar/cs2200
+[submodule "cs3210"]
+	path = cs3210
+	url = https://github.com/adityaxdiwakar/cs3210
+[submodule "cs3001"]
+	path = cs3001
+	url = https://github.com/adityaxdiwakar/cs3001
+[submodule "math4317"]
+	path = math4317
+	url = https://github.com/adityaxdiwakar/math4317
+[submodule "cs3220"]
+	path = cs3220
+	url = https://github.com/adityaxdiwakar/cs3220
+[submodule "cs3600"]
+	path = cs3600
+	url = https://github.com/adityaxdiwakar/cs3600
