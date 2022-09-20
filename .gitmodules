@@ -86,3 +86,6 @@
 	path = cs3600
 	url = https://github.com/adityaxdiwakar/cs3600
 	branch = master
+[submodule "cs2340"]
+	path = cs2340
+	url = https://github.com/adityaxdiwakar/cs2340
