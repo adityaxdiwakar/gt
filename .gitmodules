@@ -89,3 +89,6 @@
 [submodule "cs2340"]
 	path = cs2340
 	url = https://github.com/adityaxdiwakar/cs2340
+[submodule "math2106"]
+	path = math2106
+	url = https://github.com/adityaxdiwakar/math2106
