@@ -98,3 +98,6 @@
 [submodule "math3236"]
 	path = math3236
 	url = https://github.com/adityaxdiwakar/math3236
+[submodule "math4032"]
+	path = math4032
+	url = https://github.com/adityaxdiwakar/math4032
