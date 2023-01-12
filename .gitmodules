@@ -18,6 +18,10 @@
 	path = Career/resume
 	url = https://github.com/adityaxdiwakar/resume
 	branch = master
+[submodule "Career/citadel/top5"]
+	path = Career/citadel/top5
+	url = https://github.com/adityaxdiwakar/citadel-top5
+	branch = master
 [submodule "math4107"]
 	path = math4107
 	url = https://github.com/adityaxdiwakar/math4107
